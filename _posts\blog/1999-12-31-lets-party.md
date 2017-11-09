@@ -2,7 +2,7 @@
 layout: blog
 title: Let's Party
 date: 2017-07-10T22:00:00.000Z
-thumbnail: /static/img/uploads/dummy.png
+thumbnail: /static/img/uploads/me.jpg
 rating: 5
 ---
 
