@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "Let's Party"
-date: 1999-12-31 11:59:59 -0800
-thumbnail: "/static/uploads/dummy.png"
+title: Let's Party
+date: 2017-07-11T00:00:00+02:00
+thumbnail: /img/uploads/dummy.png
 rating: 5
 ---
 
