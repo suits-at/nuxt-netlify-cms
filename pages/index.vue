@@ -6,11 +6,12 @@
         nuxt-netlify-cms
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        uses nuxt as frontend, netlify as backend and github for data storage
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
+        <a href="/admin/" class="button--grey">Backend</a>
       </div>
     </div>
   </section>
